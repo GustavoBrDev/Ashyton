@@ -12,3 +12,5 @@ O seu desenvolvimento ocorre em tempos livres e através de fóruns de ajuda onl
 
 ***Toda colaboração é bem vinda.***
 
+<ul><li><b>Próximo passo:</b> Fazer um chat funcional com o bot (Realmente poder conversar com ela)</li></ul>
+
